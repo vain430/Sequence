@@ -78,6 +78,7 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Sequence\Base.h" />
     <ClInclude Include="Sequence\GameOver.h" />
     <ClInclude Include="Sequence\Game\Child.h" />
     <ClInclude Include="Sequence\Game\Parent.h" />
